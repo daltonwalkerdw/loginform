@@ -1,10 +1,10 @@
-import './App.css';
-import LoginForm from './Components/LoginForm';
+import "./App.css";
+import LoginForm from "./Components/LoginForm";
 
 function App() {
   return (
-    <div className="App">
-      <LoginForm/>
+    <div className="login-page">
+      <LoginForm />
     </div>
   );
 }
